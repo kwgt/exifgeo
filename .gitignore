@@ -1,0 +1,11 @@
+Cargo.lock
+tags
+compile_flags.txt
+*.bak
+*.swp
+*.drawio
+*.drawio.bkp
+._*
+.DS_Store
+**/target
+**/tmp
