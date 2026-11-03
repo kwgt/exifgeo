@@ -9,3 +9,8 @@ compile_flags.txt
 .DS_Store
 **/target
 **/tmp
+/dist/
+/target/
+/.release-skill-backups/
+/.agents
+/.release.toml
