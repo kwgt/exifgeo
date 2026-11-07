@@ -11,6 +11,7 @@ compile_flags.txt
 **/tmp
 /dist/
 /target/
+/target-test/
 /.release-skill-backups/
 /.agents
 /.release.toml
